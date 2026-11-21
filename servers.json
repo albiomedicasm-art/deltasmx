@@ -1,9 +1,9 @@
 [
-  {
-    "name": "DELTAS MX | RolePlay",
-    "color": "FF00FF00",
-    "dopname": "OFICIAL",
-    "maxonline": 30,
-    "online": 1
-  }
+    {
+      "color": "FFFF00",
+      "dopname": "(X999 ACOES)",
+      "maxonline": 1000,
+      "name": "AMARELO",
+      "online": 2
+    }
 ]
